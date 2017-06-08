@@ -1,0 +1,10 @@
+{
+  "id": "{9F31C220-8B50-4151-A22F-EB06DCBA0A01}",
+  "name": "zlib",
+  "platforms": "Win32;Win64",
+  "package_compiler_min": 32,
+  "package_compiler_max": 32,
+  "compiler_min": 32,
+  "compiler_max": 32,
+  "first_version": "1.2.8"
+}

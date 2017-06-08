@@ -1,0 +1,21 @@
+{
+  "browsing_pathes": [{
+    "pathes": "Source",
+    "platforms": "Win32;Win64"
+  }],
+  "source_folders": [{
+    "folder": "."
+  },
+  {
+    "folder": "Source",
+    "recursive": true
+  },
+  {
+    "folder": "Packages",
+    "recursive": true
+  }],
+  "projects": [{
+    "project": "Packages\\Delphi 10.2\\zlib.dproj",
+    "compiler": 32
+  }]
+}
